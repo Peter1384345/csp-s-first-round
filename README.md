@@ -6,14 +6,16 @@
 
 ## 快速开始
 
-**在线访问**：<https://peter1384345.github.io/csp-s-first-round/>（GitHub Pages）
-
-**本地使用**：克隆或下载本仓库后，直接双击 `index.html` 即可——无需服务器、无需安装任何东西，断网也能完整使用。
+**本地使用（推荐）**：克隆或下载本仓库后，直接双击 `index.html` 即可——无需服务器、无需安装任何东西，断网也能完整使用。
 
 ```bash
 git clone https://github.com/Peter1384345/csp-s-first-round.git
 # 然后打开 index.html
 ```
+
+**在线访问**：开启 GitHub Pages 后可在线浏览——仓库 **Settings → Pages → Deploy from a branch → 分支选 `main`、目录选 `/ (root)` → Save**，约 1 分钟后访问：
+
+<https://peter1384345.github.io/csp-s-first-round/>
 
 ## 功能一览
 
